@@ -82,7 +82,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
+git clone https://github.com/Katongole2005/CheemsBot-MD11mod.git
 cd CheemsBot-MD11
 
 npm start
